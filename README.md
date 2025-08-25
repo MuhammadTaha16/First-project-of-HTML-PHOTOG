@@ -14,12 +14,7 @@ Usage
 To use the project:
 - Open index.html in any browser.
 - Browse through the photo gallery.
-Screenshots
- 
- 
- 
- 
- 
+- 
 Features
 - Built using pure HTML.
 - Displays a photography club.
